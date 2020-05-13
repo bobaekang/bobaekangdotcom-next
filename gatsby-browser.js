@@ -1,5 +1,5 @@
 // custom typefaces
-import "typeface-montserrat"
-import "typeface-merriweather"
+import 'typeface-ubuntu'
+import 'typeface-hind'
 
-import "prismjs/themes/prism.css"
+import 'prismjs/themes/prism.css'

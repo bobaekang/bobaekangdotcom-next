@@ -34,7 +34,9 @@
     "typography": "^0.16.19"
   },
   "devDependencies": {
-    "prettier": "2.0.5"
+    "gatsby-plugin-postcss": "^2.3.2",
+    "prettier": "2.0.5",
+    "tailwindcss": "^1.4.6"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
